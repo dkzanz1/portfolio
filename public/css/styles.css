@@ -1,0 +1,39 @@
+
+body {
+  background-color: grey;
+}
+ul {
+  position:fixed;
+  top: 0;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(139, 130, 130);
+}
+a {
+  float: left;
+}
+li a {
+  display: block;
+  padding: 20px 50px;
+  color:white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+li a:hover {
+
+}
+.active {
+  background-color:#4a806c;
+}
+h1 {
+  color: orange;
+  margin-left: 120px;
+  margin-top :20px;
+  font-size:150px;
+ 
+  
+}
